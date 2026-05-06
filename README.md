@@ -140,19 +140,10 @@ Essential for:
 
 ---
 
-## 🚀 Future Enhancements
-
-* Implement **CVSS-based vulnerability scoring**
-* Automate reconnaissance and scanning workflows
-* Expand into advanced lab environments (HTB / TryHackMe)
-* Develop a unified **security testing toolkit**
-
----
-
 ## 👨‍💻 Author
 
 **TheShellSanta**
-Cybersecurity Enthusiast | Aspiring Penetration Tester
+Red Teaming | Aspiring Penetration Tester
 
 🔗 GitHub: https://github.com/TheShellSanta
 
